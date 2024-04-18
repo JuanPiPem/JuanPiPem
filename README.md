@@ -8,7 +8,7 @@
 
 
 
-<h2>🔨 Technology Stack: </h2>
+<h2> Technology Stack: 🔨 </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="30" />
@@ -43,4 +43,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
+
