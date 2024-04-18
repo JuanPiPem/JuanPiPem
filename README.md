@@ -7,7 +7,8 @@
 ✨ I'm a passionate Full-Stack developer dedicated to crafting innovative and responsible solutions. My focus lies in effectively collaborating with teams to develop applications that are not only useful but also creative and ethical. With experience across a variety of technologies, I'm committed to delivering quality software that addresses user needs and promotes best development practices. Ready to contribute and make a difference in exciting projects! 🚀
 
 
-<h3>🔨 Technology Stack: </h3>
+
+<h2>🔨 Technology Stack: </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="30" />
