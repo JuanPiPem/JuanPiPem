@@ -8,5 +8,5 @@
 
 ## Contact
 
-<i class="fab fa-linkedin-in"></i>- [LinkedIn](https://www.linkedin.com/in/juan-pablo-lezcano)
+![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}) - [LinkedIn](https://www.linkedin.com/in/juan-pablo-lezcano)
 - [Email](jplezcano75@gmail.com)
