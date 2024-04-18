@@ -8,5 +8,5 @@
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/juan-pablo-lezcano)
-- [Correo electrónico](jplezcano75@gmail.com)
+<i class="fab fa-linkedin-in"></i>- [LinkedIn](https://www.linkedin.com/in/juan-pablo-lezcano)
+- [Email](jplezcano75@gmail.com)
